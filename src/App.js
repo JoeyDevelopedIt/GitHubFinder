@@ -5,8 +5,8 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div>
-        <Navbar title='Github Finder' />
+      <div className='App'>
+        <Navbar />
       </div>
     );
   }
